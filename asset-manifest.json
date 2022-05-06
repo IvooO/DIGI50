@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DIGI50/static/css/main.04c92963.css",
+    "main.js": "/DIGI50/static/js/main.18225a98.js",
+    "index.html": "/DIGI50/index.html",
+    "main.04c92963.css.map": "/DIGI50/static/css/main.04c92963.css.map",
+    "main.18225a98.js.map": "/DIGI50/static/js/main.18225a98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04c92963.css",
+    "static/js/main.18225a98.js"
+  ]
+}
